@@ -1,4 +1,4 @@
-<a href="https://github.com/StephaneBertrand34/StephaneBertrand34/blob/main/Digital-Economy%20(%2B%2B%2B).jpg" target="_blank" title="Bannière"></a>
+<img src="https://github.com/StephaneBertrand34/StephaneBertrand34/blob/main/Digital-Economy%20(%2B%2B%2B).jpg" title="Python" class="center" alt="Python" height="500"/>
 
 ## Bonjour
 ---
