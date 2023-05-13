@@ -1,6 +1,6 @@
 <img src="https://github.com/StephaneBertrand34/StephaneBertrand34/blob/main/Digital-Economy%20(%2B%2B%2B).jpg" title="Python" class="center" alt="Python" height="500"/>
 
-## Bonjour
+## Bonjour 👋
 ---
 
 #### Vous trouverez ici les différents travaux que j'ai menés:
