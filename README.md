@@ -28,6 +28,6 @@
 #### Projet 8: Python - Automatiser la détection de faux billets
 <a href="https://github.com/StephaneBertrand34/Python_-_Automatiser_la_detection_de_faux_billets" target="_blank" title="Projet 8">Projet 8</a>
 
-# Merci de votre visite.
+### Merci de votre visite
 
-#Stéphane
+
