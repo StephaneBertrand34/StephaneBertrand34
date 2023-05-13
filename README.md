@@ -10,7 +10,7 @@
 
 <a href="https://github.com/StephaneBertrand34/Python_-_Analyse_des_ventes_d_une_librairie_en_ligne" target="_blank" title="Projet 4">Projet 4: Python - Analyse des ventes d'une librairie en ligne</a>
 
-<a href="https://github.com/StephaneBertrand34/KNIME_-_Analyse_des_indicateurs_de-l_egalite_femmes-hommes" target="_blank" title="Projet 5">Projet 5: KNIME - Analyse des indicateurs de l'éegalite femmes-hommes</a>
+<a href="https://github.com/StephaneBertrand34/KNIME_-_Analyse_des_indicateurs_de-l_egalite_femmes-hommes" target="_blank" title="Projet 5">Projet 5: KNIME - Analyse des indicateurs de l'égalité femmes-hommes</a>
 
 <a href="https://github.com/StephaneBertrand34/Tableau_-_Etude_sur_l_eau_potable_dans_le_monde" target="_blank" title="Projet 6">Projet 6: Tableau - Etude sur l'eau potable dans le monde</a>
 
