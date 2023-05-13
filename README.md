@@ -1,4 +1,7 @@
-### Bonjour,
+<a href="https://github.com/StephaneBertrand34/StephaneBertrand34/blob/main/Digital-Economy%20(%2B%2B%2B).jpg" target="_blank" title="Bannière"></a>
+
+## Bonjour
+---
 
 #### Vous trouverez ici les différents travaux que j'ai menés:
 
