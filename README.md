@@ -1,4 +1,4 @@
-<img src="https://github.com/StephaneBertrand34/StephaneBertrand34/blob/main/Digital-Economy%20(%2B%2B%2B) (redim.).jpg" title="Python" class="center" alt="Python" height="500"/>
+<img src="https://github.com/StephaneBertrand34/StephaneBertrand34/blob/main/Digital-Economy%20(%2B%2B%2B) (redim.).jpg" title="Python" class="center" alt="Python" height="400"/>
 
 ## Bonjour 👋
 ---
