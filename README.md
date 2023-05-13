@@ -1,6 +1,6 @@
 ### Bonjour,
 
-### Vous trouverez ici les différents travaux que j'ai menés.
+### Vous trouverez ici les différents travaux que j'ai menés:
 
 <a href="https://github.com/StephaneBertrand34/SQL_-_Creer_et_utiliser_une_base_de_donnees_immobiliere" target="_blank" title="Projet 1">Projet 1: SQL - Créer et utiliser une base de données immobilière</a>
 
