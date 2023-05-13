@@ -1,5 +1,7 @@
 <img src="https://github.com/StephaneBertrand34/StephaneBertrand34/blob/main/Digital-Economy%20(%2B%2B%2B) (redim.).jpg" title="-" alt="-" height="350"/>
 
+<hr>
+
 ## Bonjour 👋
 
 <br>
