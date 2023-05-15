@@ -24,6 +24,10 @@
 
 <a href="https://github.com/StephaneBertrand34/Python_-_Automatiser_la_detection_de_faux_billets" target="_blank" title="Projet 8">Projet 8: Python - Automatiser la détection de faux billets</a>
 
+<br>
+
+<img src="https://github.com/StephaneBertrand34/StephaneBertrand34/blob/main/mur_logos.svg" title="-" alt="-" height="250"/>
+
 #### Merci de votre visite.
 
 ### Stéphane
