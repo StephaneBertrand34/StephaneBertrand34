@@ -4,7 +4,6 @@
 
 ## Bonjour 👋
 
-<br>
 
 #### Vous trouverez ici les différents travaux que j'ai menés:
 
